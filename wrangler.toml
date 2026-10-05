@@ -5,7 +5,7 @@ compatibility_date = "2026-09-30"
 [[d1_databases]]
 binding = "DB"
 database_name = "velora"
-database_id = "849f44a1-1920-4124-8036-01b3aee455a3"
+database_id = "3246cb89-0c91-4d27-8b6b-82b8563adaf2"
 
 [vars]
 SELLER_PRICE = "15000"
