@@ -2,11 +2,6 @@ name = "velora"
 main = "index.js"
 compatibility_date = "2026-09-30"
 
-[[d1_databases]]
-binding = "DB"
-database_name = "velora"
-database_id = "ISI_D1_ID_KAMU"
-
 [vars]
 SELLER_PRICE = "15000"
 SELLER_DAYS = "15"
